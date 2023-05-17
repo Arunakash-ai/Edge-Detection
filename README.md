@@ -31,8 +31,8 @@ Display all the images with their respective edge detected images.
  
 ## Program:
 ```
- Devoloped by : ASHWIN A O
- Registration no: 212220230005
+ Devoloped by : Arun kumar R
+ Registration no: 212220233001
 ```
 ``` Python
 # Import the packages
